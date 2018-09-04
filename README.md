@@ -6,8 +6,7 @@ Neste vídeo mostramos a instalação, por linha de comando, do Servidor e Clien
 
 https://www.youtube.com/watch?v=K2IsVngCcDc
 
-[![](http://example.com/exampl.png)](https://www.youtube.com/watch?v=K2IsVngCcDc "Instalação")
-
+https://www.youtube.com/watch?v=1WYMytqY4DU
 
 
 
