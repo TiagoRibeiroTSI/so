@@ -3,13 +3,13 @@
 ## Atividade 2: Gravação da instalação do ambiente (04/09/18)
 
 Neste vídeo mostramos a instalação, por linha de comando, do Servidor e Cliente Mosquitto.
-
-https://www.youtube.com/watch?v=K2IsVngCcDc
+![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/K2IsVngCcDc/0.jpg)]
+(https://www.youtube.com/watch?v=K2IsVngCcDc)
 
 
 Simulação de teste de comunicação do Protocolo MQTT.
-
-https://www.youtube.com/watch?v=1WYMytqY4DU
+![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1WYMytqY4DU/0.jpg)]
+(https://www.youtube.com/watch?v=1WYMytqY4DU)
 
 
 ## Atividade 1: Instalação do VM, do Debian e Definição do Tema (29/08/18)
