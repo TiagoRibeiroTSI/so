@@ -1,10 +1,26 @@
 ## Disciplina de Sistemas Operacionais
 
-Atividade 1: Instalação do VM e do Debian
+## Atividade 2: Gravação da instalação do ambiente (04/09/18)
+
+Neste vídeo mostramos a instalação, por linha de comando, do Servidor e Cliente Mosquitto.
+
+https://www.youtube.com/watch?v=K2IsVngCcDc
+
+[![](http://example.com/exampl.png)](https://www.youtube.com/watch?v=K2IsVngCcDc "Instalação")
+
+
+
+
+
+
+
+
+
+## Atividade 1: Instalação do VM, do Debian e Definição do Tema (29/08/18)
 
 Tema do Projeto: MQTT
 
-Alunos: Tiago Ribeiro e Lais Amaral
+Alunos: Tiago Ribeiro, Lais Amaral e Leticia Miranda
 
 Protocolo MQTT
 
